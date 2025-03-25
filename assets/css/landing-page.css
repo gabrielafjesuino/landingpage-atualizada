@@ -150,6 +150,8 @@ header {
 
 /* Fim - Cabeçalho */
 
+/* Início - MAIN */
+
 .banner {
     width: 100%;
 }
@@ -301,6 +303,8 @@ h2 {
     padding-bottom: 0px;
 }
 
+/* Fim - MAIN */
+
 /* Início - Rodapé */
 
 footer {
@@ -361,7 +365,7 @@ footer {
 
 /* Fim - Rodapé */
 
-/* RESPONSIVO */
+/* Responsivo */
 
 @media (max-width: 426px) {
     /* Início - Cabeçalho */
@@ -418,6 +422,8 @@ footer {
     }
 
     /* Fim - Cabeçalho */
+
+    /* Início - MAIN */
 
     .banner {
         width: 100%;
@@ -476,6 +482,8 @@ footer {
         padding-top: 45px;
     }
 
+    /* Fim - MAIN */
+
     /* Início - Rodapé */
 
     footer {
@@ -526,6 +534,8 @@ footer {
 }
 
 @media (max-width: 376px) {
+    /* Ajustes - MAIN */
+
     .titulo {
         padding-left: 13px;
     }
@@ -539,6 +549,8 @@ footer {
 }
 
 @media (max-width: 321px) {
+    /* Ajuste - Cabeçalho */
+
     .input:focus {
         width: 300px !important;
         font-size: 13.8px;
